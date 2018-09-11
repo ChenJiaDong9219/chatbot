@@ -4,4 +4,3 @@
 4. 试试不同的优化函数，看看训练速度和模型性能是否提高。
 5. 尝试使用别人预训练好的中文词嵌入，参考文档：https://github.com/Embedding/Chinese-Word-Vectors
 6. 尝试找到最好的 sampled loss 中的 num_samples 。
-
