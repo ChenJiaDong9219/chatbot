@@ -4,3 +4,6 @@ https://www.quora.com/What-is-exactly-the-attention-mechanism-introduced-to-RNN-
 RNN原理解释：
 CS231
 《Deep Learning》
+
+聊天机器人：
+https://github.com/warmheartli/ChatBotCourse
